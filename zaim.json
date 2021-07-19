@@ -1,0 +1,548 @@
+[
+    
+     {
+	"name": "Екапуста",
+	"age": "18-80",
+    "image_url": "http://zaem-online.kz/img/kap.png",
+    "rating": 5.0,
+	"sum_to": "30 000",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0%",
+	"visa": true,
+	"mastercard": true,
+	"mir": true,
+	"qiwi": true,
+	"yandex": true,
+  	"price_info": "До 30 000 руб",
+  	"percent_info": "от 0% в день",
+  	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub2=ssll",
+    "text": "<p><strong>Екапуста</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 30 000 руб Первый займ под 0%!</p>"
+  },
+    
+    
+    
+     {
+	"name": "Vivus",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/vivu.png",
+    "rating": 4.9,
+	"sum_to": "80 000 руб",
+	"term_from": "1",
+	"term_to": "126",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "80 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/f912b3dd05868b3855c1bebb49a3d216?aff_sub2=ssll",
+  	"text": "<p><strong>Первый займ 0%</strong> <br/> Сумма займа до 80 000 руб!</p>"
+  }
+   ,
+    
+     {
+	"name": "Lime-zaim",
+	"age": "21-65",
+    "image_url": "http://zaem-online.kz/img/1552.png",
+    "rating": 5,
+	"sum_to": "70 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "до 70 000 руб.",
+	"percent_info": "от 0,34% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/c88d0bfa4f20b118ecf623ee0f2a43ba?aff_sub2=ssll",
+  	"text": "<p><strong>Lime-zaim</strong> <br/>Ставка от 0% на первый заем и от 0.34% на повторные займы. Сумма от 2 000 до 70 000</p>"
+  }
+  ,
+  
+    
+      {
+	"name": "Вебзайм",
+	"age": "18-60",
+    "image_url": "http://zaem-online.kz/img/wewe.png",
+    "rating": 4.9,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub2=ssll",
+  	"text": "<p><strong>Вебзайм</strong> <br/>Процентная ставка от 0% в день</p>"
+  }
+  
+  
+   ,
+    
+    
+     {
+	"name": "Отличные наличные",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/otlnl.png",
+    "rating": 4.9,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "80 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/e59312a43dd540a65c344ff36a0180e8?aff_sub2=ssll",
+  	"text": "<p><strong>Отличные наличные</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 80 000 руб Первый займ под 0%!</p>"
+  }
+  ,
+    
+      
+    
+    
+  {
+	"name": "Pay P.S.",
+	"age": "18-70",
+    "image_url": "http://zaem-online.kz/img/paypsss.png",
+    "rating": 4,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/c24c18f9cd89c00a8801ed88ea5c04d0?aff_sub2=ssll",
+  	"text": "<p><strong>Pay P.S.</strong> <br/>Ставка от 0% на первый заем и от 1% на повторные займы. Сумма от 1 000 до 30 000</p>"
+  }
+  
+   ,
+    
+    
+    
+     {
+	"name": "Fastmoney",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/fastmz.png",
+    "rating": 4.9,
+	"sum_to": "80 000 руб",
+	"term_from": "1",
+	"term_to": "126",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/d5c99c22c28ca9bf2dbfc890836a1bce?aff_sub2=ssll",
+  	"text": "<p><strong>Первый займ 0%</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 30 000 руб!</p>"
+  }
+  
+   ,
+    
+    
+    
+    
+    
+     {
+	"name": "Joymoney",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/joymoneyy.png",
+    "rating": 4.7,
+	"sum_to": "60 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "60 000 руб",
+	"percent_info": "от 0,1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/efa8979809fe77425497af35b3b2ac07?aff_sub2=ssll",
+  	"text": "<p><strong>Joymoney</strong> <br/> Для первого займа клиенту доступна сумма до 8 000 руб, при повторном займе возможно увеличение лимита до 30 000 руб. Первый займ под 0%!</p>"
+  },
+  
+  
+ 
+  
+  
+  
+   
+   
+  
+  
+    
+     {
+	"name": "Turbozaim",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/turbozaimm.png",
+    "rating": 4.7,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/0a93339708f40081ea09352834d9b92a?aff_sub2=ssll",
+  	"text": "<p><strong>Turbozaim</strong> <br/> 1% в день по займам от 3000 до 15000 рублей;</p>"
+  },
+ 
+    
+      
+    {
+	"name": "Zaymigo",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/zami.png",
+    "rating": 4.9,
+	"sum_to": "80 000 руб",
+	"term_from": "1",
+	"term_to": "126",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "10 000 руб",
+	"percent_info": "от 1,5% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/a034b5f606c4f6b439369ec296109848?aff_sub2=ssll",
+  	"text": "<p>Для первого займа клиенту доступна сумма до 10 000 руб, при повторном займе возможно увеличение лимита до 30 000 руб. <br/> Сумма займа до 10 000 руб!</p>"
+  }
+   ,
+
+ 
+ 
+    
+     {
+	"name": "BelkaCredit",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/belka.png",
+    "rating": 4.8,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/4fea559ce93e906b83463a03aedc7aef?aff_sub2=ssll",
+  	"text": "<p><strong>BelkaCredit</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 30 000 руб Первый займ под 0%!</p>"
+  }
+  
+   ,
+    
+  
+
+     
+
+    
+    
+   
+    
+    
+     
+  
+  
+  
+  {
+	"name": "MoneyMan",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/monen.png",
+    "rating": 4.9,
+	"sum_to": "80 000 руб",
+	"term_from": "1",
+	"term_to": "126",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "80 000 руб",
+	"percent_info": "от 0,1% в день",
+	"days_info": "до 260 дней",
+    "url": "https://pxl.leads.su/click/41dcc41172273fd807876613096d8579?aff_sub2=ssll",
+  	"text": "<p><strong>MoneyMan</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 80 000 руб Первый займ под 0%!</p>"
+  }
+  
+    ,
+   
+
+  
+ 
+ {
+	"name": "Robotmoney",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/robotmoney.png",
+    "rating": 4.6,
+	"sum_to": "50 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "50 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/3e05999823bdd9e1e92a9f21ea1c6185?aff_sub2=ssll",
+  	"text": "<p><strong>Robotmoney</strong> <br/>Процентная ставка от 1% в день. Возраст заемщика: 18-70. После одобрения займа сообщим, доступно ли снижение процентной ставки</p>"
+  },
+  
+  
+ 
+  
+  
+
+ 
+ 
+ 
+  {
+	"name": "Moneza",
+	"age": "18-70",
+    "image_url": "http://zaem-online.kz/img/mmon.png",
+    "rating": 4.9,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/71b85a228c240db125ea0bacba47f90c?aff_sub2=ssll",
+  	"text": "<p><strong>Moneza</strong> <br/>Процентная ставка от 0% в день</p>"
+  }
+  
+  
+   ,
+   
+   
+   
+  
+  
+    {
+	"name": "Займер",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/zaimers.png",
+    "rating": 4.9,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 0,1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/79732fa9329cbdd4cd82b5730dd19267?aff_sub2=ssll",
+  	"text": "<p><strong>Займер</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
+  },
+  
+  
+  
+  {
+	"name": "Ё-заем",
+	"age": "18-70",
+    "image_url": "http://zaem-online.kz/img/logsez.png",
+    "rating": 4.9,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,65%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/bf5459cb9b36a85b2a51b3c79ad66fb8?aff_sub2=ssll",
+  	"text": "<p><strong>Ё-заем</strong> <br/>Сумма займа до 30 000 руб Первый займ под 0%!</p>"
+  }, 
+    
+ 
+
+ 
+  
+
+  
+  {
+	"name": "Надо денег",
+	"age": "18-70",
+    "image_url": "http://zaem-online.kz/img/nadodeneg.png",
+    "rating": 4.9,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,65%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 0% в день",
+	"days_info": "до 160 дней",
+    "url": "https://pxl.leads.su/click/abd65dca2ab0f93715506898f5620310?aff_sub2=ssll",
+  	"text": "<p><strong>Надо денег</strong> <br/>Сумма займа до 30 000 руб Первый займ под 0%!</p>"
+  } 
+ 
+  ,
+ 
+ 
+  {
+	"name": "МигКредит",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/logoqw.png",
+    "rating": 4.5,
+	"sum_to": "60 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "60 000 руб",
+	"percent_info": "от 1% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/d6ae8a2c679ccc4169ed7b8a11cb697e?aff_sub2=ssll",
+  	"text": "<p><strong>МигКредит</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
+  }
+ 
+ ,
+  
+   
+   {
+	"name": "Webbankir",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/wasbb.png",
+    "rating": 4.9,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "15 000 руб",
+	"percent_info": "от 0% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/fac9aa98231e5d562f152a1905492616?aff_sub2=ssll",
+  	"text": "<p><strong>Webbankir</strong> <br/>Процентная ставка от 0% в день Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
+  }
+  ,
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+   {
+	"name": "Credit7",
+	"age": "18-65",
+    "image_url": "http://zaem-online.kz/img/cr7.png",
+    "rating": 4.9,
+	"sum_to": "15 000 руб",
+	"term_from": "1",
+	"term_to": "160",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 0% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/a7a37bb118fda3b23ed9c97483c6cc9a?aff_sub2=ssll",
+  	"text": "<p><strong>Займер</strong> <br/> Возраст заемщика: 18-70 Сумма займа до 15 000 руб Первый займ под 0%!</p>"
+  }
+ 
+ 
+  ,
+ 
+ 
+  {
+	"name": "CreditStar",
+	"age": "18-70",
+    "image_url": "http://zaem-online.kz/img/crs.png",
+    "rating": 4,
+	"sum_to": "30 000 руб",
+	"term_from": "1",
+	"term_to": "60",
+	"percent": "0,1%",
+	"visa": true,
+	"mastercard": true,
+	"mir": false,
+	"qiwi": true,
+	"yandex": false,
+    "price_info": "30 000 руб",
+	"percent_info": "от 0,72% в день",
+	"days_info": "до 160 дней",
+    "url": "https://trkleads.ru/click/5840ae8e70324ded484d480452906595?aff_sub2=ssll",
+  	"text": "<p><strong>CreditStar</strong> <br/>Ставка от 0% на первый заем и от 0.72% на повторные займы. Сумма от 1 000 до 30 000</p>"
+  }
+ 
+  
+ 
+  
+]
